@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>27/02/2017 09:21:58</xs:documentation>
+    <xs:documentation>06/03/2017 11:26:04</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -775,7 +775,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -1413,7 +1412,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -2090,7 +2088,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -2457,7 +2454,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -2775,7 +2771,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -3403,7 +3398,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -3725,7 +3719,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -4063,7 +4056,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -4344,7 +4336,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -4602,7 +4593,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -5178,7 +5168,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -5600,7 +5589,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -5988,7 +5976,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -6431,7 +6418,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -6749,7 +6735,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -7067,7 +7052,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -7425,7 +7409,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -7743,7 +7726,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -8171,7 +8153,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -8545,7 +8526,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -8827,7 +8807,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -9267,7 +9246,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -9681,7 +9659,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -10213,7 +10190,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -10683,7 +10659,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -11123,7 +11098,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -11739,7 +11713,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -11979,7 +11952,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -12219,7 +12191,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -12459,7 +12430,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -12699,7 +12669,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -12939,7 +12908,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -13179,7 +13147,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -13419,7 +13386,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -13853,7 +13819,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -14120,7 +14085,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -14360,7 +14324,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -14600,7 +14563,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -14840,7 +14802,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -15120,7 +15081,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -15360,7 +15320,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -15678,7 +15637,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -15958,7 +15916,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -16289,7 +16246,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -16529,7 +16485,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -17071,7 +17026,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -17421,7 +17375,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -17756,7 +17709,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -18324,7 +18276,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -18650,7 +18601,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -19050,7 +19000,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -19410,7 +19359,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -19666,7 +19614,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -21747,7 +21694,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@anim/desktop" />
             <xs:enumeration value="@anim/slide_right" />
             <xs:enumeration value="@anim/slide_up" />
             <xs:enumeration value="@android:anim/accelerate_decelerate_interpolator" />
@@ -21810,7 +21756,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -22172,7 +22117,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -23168,7 +23112,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -23420,7 +23363,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -23701,7 +23643,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -23981,7 +23922,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -24221,7 +24161,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -24461,7 +24400,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -24701,7 +24639,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -24941,7 +24878,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -25654,7 +25590,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -25911,7 +25846,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -26229,7 +26163,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -26940,7 +26873,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -27298,7 +27230,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -27719,7 +27650,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -28069,7 +27999,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -28309,7 +28238,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -29093,7 +29021,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -29333,7 +29260,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -29573,7 +29499,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -29813,7 +29738,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -30233,7 +30157,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -30473,7 +30396,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -30881,7 +30803,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -31121,7 +31042,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -31439,7 +31359,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -32122,7 +32041,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -32655,7 +32573,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -33031,7 +32948,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -34223,7 +34139,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -34504,7 +34419,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -34835,7 +34749,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -35155,7 +35068,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -35395,7 +35307,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -35675,7 +35586,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -35915,7 +35825,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -36302,7 +36211,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -36542,7 +36450,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -36860,7 +36767,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -37178,7 +37084,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -37496,7 +37401,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -37814,7 +37718,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -38080,7 +37983,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -38320,7 +38222,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -38560,7 +38461,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -38800,7 +38700,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -39040,7 +38939,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -39454,7 +39352,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -39694,7 +39591,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -39934,7 +39830,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -41112,7 +41007,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -41942,7 +41836,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -42353,7 +42246,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -43108,7 +43000,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -43574,7 +43465,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -43830,7 +43720,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -44070,7 +43959,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -44310,7 +44198,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -44628,7 +44515,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -44998,7 +44884,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />
@@ -45238,7 +45123,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/buttonsigninstyle" />
             <xs:enumeration value="@drawable/buttonsignupstyle" />
-            <xs:enumeration value="@drawable/desktop" />
             <xs:enumeration value="@drawable/edit_text_style" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/progressbarstyle" />

@@ -44,4 +44,26 @@ C:\Users\antoninom\Documents\Visual Studio 2015\Projects\SistemaLogin\SistemaLog
 C:\Users\antoninom\Documents\Visual Studio 2015\Projects\SistemaLogin\SistemaLogin\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\antoninom\Documents\Visual Studio 2015\Projects\SistemaLogin\SistemaLogin\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\antoninom\Documents\Visual Studio 2015\Projects\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.dll.mdb
-C:\Users\antoninom\Documents\Visual Studio 2015\Projects\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.dll.mdb
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.dll
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.pdb
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.SistemaLogin.apk
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.SistemaLogin-Signed.apk
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.dll
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.pdb
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\android\bin\SistemaLogin.SistemaLogin.apk
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\layout\main.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\values\strings.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\icon.png
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\zerode_plump_mail.ico
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\anim\slide_right.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\anim\slide_up.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\res\values\styles.xml
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\R.cs.flag
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\uploadflags.txt
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.dll.mdb
+C:\Users\NewMarco\Documents\ITS ICT\net\Progetto\its-team-2\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.dll.mdb

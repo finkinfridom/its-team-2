@@ -16,6 +16,7 @@ using Android.App;
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 
+
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version
@@ -28,3 +29,12 @@ using Android.App;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
+
+//codice per disabilitare il debug quando viene rilasciato l'apk
+//disabilitare questo codice in caso di debug necessario
+#if DEBUG
+[assembly: Application(Debuggable = true, Icon = "@drawable/Icon")]
+#else
+[assembly: Application(Debuggable=false, Icon = "@drawable/Icon")]
+#endif

@@ -1,7 +1,7 @@
 package md5db2241e7ab83e94584725efb9d722958;
 
 
-public class dialog_SignUp
+public class Dialog_SignUp
 	extends android.app.DialogFragment
 	implements
 		mono.android.IGCUserPeer
@@ -13,15 +13,15 @@ public class dialog_SignUp
 			"n_onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:GetOnCreateView_Landroid_view_LayoutInflater_Landroid_view_ViewGroup_Landroid_os_Bundle_Handler\n" +
 			"n_onActivityCreated:(Landroid/os/Bundle;)V:GetOnActivityCreated_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("SistemaLogin.dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", dialog_SignUp.class, __md_methods);
+		mono.android.Runtime.register ("SistemaLogin.Dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", Dialog_SignUp.class, __md_methods);
 	}
 
 
-	public dialog_SignUp () throws java.lang.Throwable
+	public Dialog_SignUp () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == dialog_SignUp.class)
-			mono.android.TypeManager.Activate ("SistemaLogin.dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == Dialog_SignUp.class)
+			mono.android.TypeManager.Activate ("SistemaLogin.Dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

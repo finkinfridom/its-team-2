@@ -1,7 +1,7 @@
-SistemaLogin.dialog_SignUp, SistemaLogin;md5db2241e7ab83e94584725efb9d722958.dialog_SignUp
-SistemaLogin.dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db2241e7ab83e94584725efb9d722958.dialog_SignUp
-SistemaLogin.dialog_SignUp;md5db2241e7ab83e94584725efb9d722958.dialog_SignUp
-sistemalogin.dialog_SignUp;md5db2241e7ab83e94584725efb9d722958.dialog_SignUp
+SistemaLogin.Dialog_SignUp, SistemaLogin;md5db2241e7ab83e94584725efb9d722958.Dialog_SignUp
+SistemaLogin.Dialog_SignUp, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db2241e7ab83e94584725efb9d722958.Dialog_SignUp
+SistemaLogin.Dialog_SignUp;md5db2241e7ab83e94584725efb9d722958.Dialog_SignUp
+sistemalogin.Dialog_SignUp;md5db2241e7ab83e94584725efb9d722958.Dialog_SignUp
 SistemaLogin.MainActivity, SistemaLogin;md5db2241e7ab83e94584725efb9d722958.MainActivity
 SistemaLogin.MainActivity, SistemaLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db2241e7ab83e94584725efb9d722958.MainActivity
 SistemaLogin.MainActivity;md5db2241e7ab83e94584725efb9d722958.MainActivity
