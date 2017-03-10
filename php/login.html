@@ -1,0 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+<!-- 
+form per il login
+tramite una get invia mail,pass e il parametro nascosto f=11 alla pagina funz.php
+-->
+	<form action="http://dbsecret.altervista.org/funz.php" method="get">
+		<table>
+			<tr><td>mail</td><td><input type="text" name="mail" /></td></tr>
+			<tr><td>pass</td><td><input type="text" name="pass" /></td></tr>
+		</table>
+		<input type="hidden" name="f" value="11"/>
+		<input type="submit" value="login" />
+	</form>
+</body>
+</html>

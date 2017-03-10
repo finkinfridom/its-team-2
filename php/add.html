@@ -1,0 +1,23 @@
+<html>
+<head>
+</head>
+<body>
+<!-- 
+form per l'aggiunta di nuovi utenti al database
+tramite una get invia nome,cognome,mail,pass,nascita e il parametro nascosto f=10 alla pagina funz.php
+-->
+	<form action="http://dbsecret.altervista.org/funz.php" method="get">
+		<table>
+			<tr><td>nome</td><td><input type="text" name="nome" /></td></tr>
+			<tr><td>cognome</td><td><input type="text" name="cognome" /></td></tr>
+			<tr><td>mail</td><td><input type="text" name="mail" /></td></tr>
+			<tr><td>pass</td><td><input type="text" name="pass" /></td></tr>
+			<tr><td>nascita</td><td><input type="text" name="nascita" /></td></tr>
+			<!--tr><td>creazione</td><td><input type="text" name="creazione" /></td></tr>
+			<tr><td>accesso</td><td><input type="text" name="accesso" /></td></tr-->
+		</table>
+		<input type="hidden" name="f" value="10"/>
+		<input type="submit" value="ADD" />
+	</form>
+</body>
+</html>
