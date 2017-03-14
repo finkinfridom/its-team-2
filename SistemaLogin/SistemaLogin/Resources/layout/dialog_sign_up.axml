@@ -17,7 +17,8 @@
         android:hint="First Name"
         android:paddingLeft="10dp"
         android:textColor="#000"
-        android:textColorHint="@color/grey"/>
+        android:autoText="false"
+        android:backgroundTint="#ff000000" />
     <EditText
         android:layout_below="@id/txtFirstName"
         android:inputType="textEmailAddress"
@@ -30,8 +31,7 @@
         android:layout_marginRight="20dp"
         android:hint="Email"
         android:paddingLeft="10dp"
-        android:textColor="#000"
-        android:textColorHint="@color/grey" />
+        android:textColor="#000" />
     <EditText
         android:inputType="textPassword"
         android:layout_width="match_parent"
@@ -43,8 +43,7 @@
         android:hint="Password"
         android:paddingLeft="10dp"
         android:textColor="#000"
-        android:layout_below="@id/txtEmail" 
-        android:textColorHint="@color/grey"/>
+        android:layout_below="@id/txtEmail" />
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
