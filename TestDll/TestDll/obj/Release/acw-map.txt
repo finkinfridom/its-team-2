@@ -1,0 +1,4 @@
+TestDll.MainActivity, TestDll;md569c52c04dcf7affffbe7b3dfc404d75a.MainActivity
+TestDll.MainActivity, TestDll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569c52c04dcf7affffbe7b3dfc404d75a.MainActivity
+TestDll.MainActivity;md569c52c04dcf7affffbe7b3dfc404d75a.MainActivity
+testdll.MainActivity;md569c52c04dcf7affffbe7b3dfc404d75a.MainActivity
